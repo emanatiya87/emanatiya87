@@ -30,6 +30,7 @@ I'm a passionate Front-End Developer from Cairo, Egypt, specializing in building
 - Tailwind CSS
 - Flowbite React
 - MUI
+- React native
 
 ### State Management & Data
 - Context API
